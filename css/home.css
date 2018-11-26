@@ -5,6 +5,9 @@
   padding-right: 15px;
 }
 /* Header */  
+.header-bg {
+  background-color: rgb(240, 247, 243);
+}
 .header .left-header .fas{
   padding-right: 5px;
 }
@@ -104,7 +107,7 @@
 
 /* footer */
 .footer {
-  background-color: rgb(240, 247, 243);
+  /* background-color: rgb(240, 247, 243); */
 }
 .footer .item{
   font-size: 13px;
