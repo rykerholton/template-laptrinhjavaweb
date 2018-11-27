@@ -21,6 +21,9 @@
 }
 
 /* navbar-items */
+.navbar-items {
+  background-color: rgb(240, 247, 243);
+}
 .navbar-items .nav-item:hover {
   background-color: #3498db;
 }
@@ -40,11 +43,16 @@
 }
 /* banner */
 .banner {
-  background-color: rgb(240, 247, 243);
+  background-image: url(file:///E:/Working/Page%20For%20Lam/template-laptrinhjavaweb/hinh-nen-powerpoint-don-gian-dep-21_045406597.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .banner .slick-prev:before, .slick-next:before {
   color: lightslategrey;
   font-size: 30px;
+}
+.banner .slick-dotted.slick-slider {
+  margin-bottom: 0px;
 }
 .banner .slick-prev {
   left: -1px;
@@ -95,19 +103,26 @@
 }
 /* course */
 .course {
-  /* background-color: rgb(240, 247, 243); */
+  background-color: rgb(240, 247, 243);
+}
+.course .course-border {
+  border-radius: 30px;
+  background: gainsboro;
 }
 .course .course-icon {
   font-size: 45px;
 }
 /* tech-news */
 .tech-news {
-  background-color: rgb(240, 247, 243);
+  /* background-color: rgb(240, 247, 243); */
+  background-image: url(file:///E:/Working/Page%20For%20Lam/template-laptrinhjavaweb/hinh-nen-powerpoint-don-gian-dep-21_045406597.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* footer */
 .footer {
-  /* background-color: rgb(240, 247, 243); */
+  background-color: rgb(240, 247, 243);
 }
 .footer .item{
   font-size: 13px;
