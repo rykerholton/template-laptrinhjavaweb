@@ -1,7 +1,7 @@
 /* detail-main */
 .detail-main {
   height: 80vh;
-  background-color: rgb(240, 247, 243);
+  background-color: gray;
 }
 
 /* input-search */
@@ -13,4 +13,8 @@
 .page-link {
   background-color: transparent; 
   border: none;
+  color: white;
+}
+.page-link:hover {
+  color: black;
 }

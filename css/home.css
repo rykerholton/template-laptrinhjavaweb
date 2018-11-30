@@ -6,7 +6,7 @@
 }
 /* Header */  
 .header-bg {
-  background-color: rgb(240, 247, 243);
+  background-color: white;
 }
 .header .left-header .fas{
   padding-right: 5px;
@@ -22,7 +22,7 @@
 
 /* navbar-items */
 .navbar-items {
-  background-color: rgb(240, 247, 243);
+  background-color: white;
 }
 .navbar-items .nav-item:hover {
   background-color: #3498db;
@@ -36,16 +36,17 @@
 
 /* breadcrumb */
 .breadcrumb {
-  background-color: rgb(240, 247, 243);
+  background-color: white;
 }
 .breadcrumb-bg {
-  background-color: rgb(240, 247, 243);
+  background-color: white;
 }
 /* banner */
 .banner {
-  background-image: url(file:///E:/Working/Page%20For%20Lam/template-laptrinhjavaweb/hinh-nen-powerpoint-don-gian-dep-21_045406597.jpg);
+  /* background-image: url(file:///E:/Working/Page%20For%20Lam/template-laptrinhjavaweb/hinh-nen-powerpoint-don-gian-dep-21_045406597.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
+  background-color: gray;
 }
 .banner .slick-prev:before, .slick-next:before {
   color: lightslategrey;
@@ -103,7 +104,7 @@
 }
 /* course */
 .course {
-  background-color: rgb(240, 247, 243);
+  background-color: white;
 }
 .course .course-border {
   border-radius: 30px;
@@ -114,15 +115,12 @@
 }
 /* tech-news */
 .tech-news {
-  /* background-color: rgb(240, 247, 243); */
-  background-image: url(file:///E:/Working/Page%20For%20Lam/template-laptrinhjavaweb/hinh-nen-powerpoint-don-gian-dep-21_045406597.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: gray;
 }
 
 /* footer */
 .footer {
-  background-color: rgb(240, 247, 243);
+  background-color: white;
 }
 .footer .item{
   font-size: 13px;
