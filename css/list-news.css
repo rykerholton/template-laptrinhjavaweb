@@ -1,12 +1,12 @@
 /* detail-main */
 .detail-main {
   height: 80vh;
-  background-color: gray;
+  background-color: black;
 }
 
 /* input-search */
 .input-search {
-  background-color: rgb(240, 247, 243);
+  background-color: black;
 }
 
 /* paging */

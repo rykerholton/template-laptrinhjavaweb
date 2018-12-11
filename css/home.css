@@ -46,7 +46,7 @@
   /* background-image: url(file:///E:/Working/Page%20For%20Lam/template-laptrinhjavaweb/hinh-nen-powerpoint-don-gian-dep-21_045406597.jpg);
   background-repeat: no-repeat;
   background-size: cover; */
-  background-color: gray;
+  background-color: black;
 }
 .banner .slick-prev:before, .slick-next:before {
   color: lightslategrey;
@@ -115,7 +115,7 @@
 }
 /* tech-news */
 .tech-news {
-  background-color: gray;
+  background-color: black;
 }
 
 /* footer */
