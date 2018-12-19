@@ -1,7 +1,10 @@
 /* detail-main */
 .detail-main {
   height: 80vh;
-  background-color: black;
+  background-image: url(../background-bee.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-color: black; */
 }
 
 /* input-search */
