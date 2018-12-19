@@ -5,8 +5,8 @@ $('.slider-for').slick({
   arrows: true,
   dots:true,
   fade: true,
-  autoplay: true,
-  speed: 500,
+  autoplay: false,
+  // speed: 500,
  });
  $(window).bind("load", function() { 
   $('.course-title').each((index, ele) => {
